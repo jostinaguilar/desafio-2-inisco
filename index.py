@@ -54,3 +54,4 @@ else:
 
 print(f"Presupuesto estimado: S/ {presupuesto}")
 print("+++++++++++++++++++++++++++++++++++++++++++++")
+input("Presiona Enter para salir...")
